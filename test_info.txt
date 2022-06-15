@@ -1,3 +1,8 @@
 Hi Duan!
 
 7：12 written on remote.
+
+
+added something from my local laptop.
+
+resolving the confliction on my local VScode.
